@@ -7,9 +7,12 @@ This repository serves as a portfolio of cybersecurity investigations conducted 
 | Investigation | Type | Key Skills | Status |
 |---|---|---|---|
 | [LOLBIN Abuse and Domain Controller Compromise](https://github.com/dgcyberfolio/investigations/blob/main/Incident-Report-LOLBIN-ABUSE.md) | Live | T1078.002, T1218.007, T1218.011, T1003.001, T1490 | Complete |
-| Investigation 2 | — | — | Coming Soon |
-| Investigation 3 | — | — | Coming Soon |
+| [NLBrute Hacktool Detected and Active](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-NLBrute-Hacktool.md) | Live | T1078.002, T1003.001, T1547.001, T1496, T1046 | Complete |
+| [Adobe Partnership — Trojanized DocuSign Infostealer](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Adobe-DocuSign-Infostealer.md) | Live | T1204.002, T1055, T1555.003, T1036, T1071.001 | Complete |
+| [Duolingo Brand Impersonation Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Duolingo-Brand-Impersonation.md) | Live | T1566.003, T1036, T1114 | Complete |
+| [Netflix Account Suspension Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Netflix-Phishing.md) | Live | T1566, T1036, T1598 | Complete |
 
 ---
 
 *David Gilmore · DFIR Portfolio*
+
