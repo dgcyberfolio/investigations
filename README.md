@@ -10,7 +10,7 @@ This repository serves as a portfolio of cybersecurity investigations conducted 
 | [NLBrute Hacktool Detected and Active](https://github.com/dgcyberfolio/investigations/blob/main/Alert-Investigation-NLBrute.md) | Live | T1078.002, T1003.001, T1547.001, T1496, T1046 | Complete |
 | [Adobe Partnership — Trojanized DocuSign Infostealer](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Adobe-DocuSign-Infostealer.md) | Live | T1204.002, T1055, T1555.003, T1036, T1071.001 | Complete |
 | [Duolingo Brand Impersonation Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Duolingo-Brand-Impersonation.md) | Live | T1566.003, T1036, T1114 | Complete |
-| [Netflix Account Suspension Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Investigation-Netflix-Phishing.md) | Live | T1566, T1036, T1598 | Complete |
+| [Netflix Account Suspension Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Email-Investigation-Netflix-Suspension.md) | Live | T1566, T1036, T1598 | Complete |
 
 ---
 
