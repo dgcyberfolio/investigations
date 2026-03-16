@@ -165,7 +165,7 @@ index="sha-soc" extracted_host="FRONTDESK-PC1" EventCode=4625
 **Evidence:**
 157 failed login attempts on administrator, guest, andrew.henderson and Ryan.Adams from DESKTOP-924H12 (172.16.0.184) to host FRONTDESK-PC1, user Ryan.Adams
 
-![image.png](/screenshots/image.png)
+![image.png](screenshots/image.png)
 
 ---
 
@@ -196,7 +196,7 @@ index=sha-soc earliest="10/15/2025:12:55:49" latest="10/15/2025:12:55:51" extrac
 **Evidence:**
 Microsoft Defender Antivirus Real-time Protection scanning for malware and other potentially unwanted software was disabled.
 
-![image.png](/screenshots/image254.png)
+![image.png](screenshots/image254.png)
 
 ---
 **Timestamp:** 2025-10-15 12:57:00
@@ -215,7 +215,7 @@ Created C:\Users\Ryan.Adams\Music\python.exe, process_exec: chrome.exe
 
  
 
-![image.png](/screenshots/image1.png)
+![image.png](screenshots/image1.png)
 
 ---
 
@@ -235,7 +235,7 @@ Command Line: "C:\Users\Ryan.Adams\Music\python.exe"
 
  
 
-![image.png](/screenshots/image2.png)
+![image.png](screenshots/image2.png)
 
 ---
 
@@ -253,7 +253,7 @@ Python.exe connecting from host FRONTDESK-PC1, source ip 172.16.0.110, user Ryan
 
  
 
-![image.png](/screenshots/image3.png)
+![image.png](screenshots/image3.png)
 
 ---
 
@@ -273,7 +273,7 @@ Python.exe connecting from host FRONTDESK-PC1, source ip 172.16.0.110, user Ryan
 
  
 
-![image.png](/screenshots/image4.png)
+![image.png](screenshots/image4.png)
 
 ---
 
@@ -291,7 +291,7 @@ Python.exe connecting from host FRONTDESK-PC1, source ip 172.16.0.110, user Ryan
 
  
 
-![image.png](/screenshots/image5.png)
+![image.png](screenshots/image5.png)
 
 ---
 
@@ -309,7 +309,7 @@ Command Line: "PowerShell.exe" -noexit -command Set-Location -literalPath 'C:\Us
 
  
 
-![image.png](/screenshots/image6.png)
+![image.png](screenshots/image6.png)
 
 ---
 
@@ -328,7 +328,7 @@ index="sha-soc" extracted_host="FRONTDESK-PC1" earliest="10/15/2025:13:04:00" la
 
  
 
-![image.png](/screenshots/image7.png)
+![image.png](screenshots/image7.png)
 
 ---
 
@@ -347,7 +347,7 @@ PythonUpdate scheduled task created, located in C:\Windows\System32\Tasks\Python
 
  
 
-![image.png](/screenshots/image8.png)
+![image.png](screenshots/image8.png)
 
 ---
 
@@ -366,7 +366,7 @@ Sysmon Event Code 13 RegistryValue set HKLM\SOFTWARE\Microsoft\Windows NT\Curren
 
  
 
-![image.png](/screenshots/image9.png)
+![image.png](screenshots/image9.png)
 
 ---
 
@@ -385,7 +385,7 @@ powershell.exe creates C:\Users\Ryan.Adams\AppData\Local\Microsoft\Windows\Power
 
  
 
-![image.png](/screenshots/image10.png)
+![image.png](screenshots/image10.png)
 
 ---
 
@@ -403,7 +403,7 @@ Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_SNOOZED
 
  
 
-![image.png](/screenshots/image11.png)
+![image.png](screenshots/image11.png)
 
 ---
 
@@ -419,7 +419,7 @@ index="sha-soc" extracted_host="FRONTDESK-PC1" earliest="10/15/2025:13:04:00" la
 **Evidence:**
 Security Event ID 4634 An account was logged off (Ryan.Adams)
 
-![image.png](/screenshots/image12.png)
+![image.png](screenshots/image12.png)
 
 ---
 
@@ -435,7 +435,7 @@ index="sha-soc" extracted_host="FRONTDESK-PC1" earliest="10/15/2025:13:04:00" la
 **Evidence:**
 Special privileges assigned to new logon, Event ID 4672, user SYSTEM
 
-![image.png](/screenshots/image13.png)
+![image.png](screenshots/image13.png)
 
 ---
 
@@ -451,4 +451,4 @@ index="sha-soc" extracted_host="FRONTDESK-PC1" earliest="10/15/2025:13:04:00" la
 **Evidence:**
 Event 4624, SYSTEM account successfully logged from FRONTDESK-PC1
 
-![image.png](/screenshots/image14.png)
+![image.png](screenshots/image14.png)
