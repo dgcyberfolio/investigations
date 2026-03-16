@@ -11,7 +11,7 @@ This repository serves as a portfolio of cybersecurity investigations conducted 
 | [Adobe Partnership — Trojanized DocuSign Infostealer](https://github.com/dgcyberfolio/investigations/blob/main/Email-Investigation-Adobe-Docusign.md) | Live | T1204.002, T1055, T1555.003, T1036, T1071.001 | Complete |
 | [Duolingo Brand Impersonation Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Email-Investigation-Duolingo-Impersonation.md) | Live | T1566.003, T1036, T1114 | Complete |
 | [Netflix Account Suspension Phishing](https://github.com/dgcyberfolio/investigations/blob/main/Email-Investigation-Netflix-Suspension.md) | Live | T1566, T1036, T1598 | Complete |
-
+| [Tor Browser Investigation](https://github.com/dgcyberfolio/threat-hunting-scenario-tor/blob/main/README.md) | Lab | File Processes/Network Analysis | Complete |
 ---
 
 *David Gilmore · DFIR Portfolio*
